@@ -6,11 +6,11 @@ tags:
   - hexo
   - blog
 description: ''
-permalink: 202401/ss1/
+permalink: ''
 title: Notion + Hexo + GitHub Actions + Vercel 博客解决方案
 cover: /images/1301ff0148dbe0b3d1c93d280d431295.jpg
 date: '2024-05-09 14:09:00'
-updated: '2024-05-09 21:31:00'
+updated: '2024-05-09 21:45:00'
 ---
 
 # 博客工具
